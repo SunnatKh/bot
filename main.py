@@ -3,7 +3,7 @@ import cont
 
 bot = telebot.TeleBot('')
 
-#  bot.send_message(170120871, "sdf")
+#  bot.send_message(asd, "sdf")
 
 print(bot.get_me())
 
